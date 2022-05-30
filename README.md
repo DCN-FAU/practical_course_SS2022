@@ -13,9 +13,15 @@ in a concentrated version of [the course thaught in 2021](https://github.com/DCN
 This knowledge is applied in a final project in the second half of the course. 
 
 Topics for the first six lectures are
+
 o [finite differences in 1D](week1)
+
 o [time discretization](week2)
+
 o [finite elements in 1D](week3)
+
 o [finite elements in 2D](week4)
+
 o [static optimization](week5)
+
 o [dynamic optimization](week6)
