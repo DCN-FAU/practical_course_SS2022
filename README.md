@@ -14,14 +14,14 @@ This knowledge is applied in a final project in the second half of the course.
 
 Topics for the first six lectures are
 
-o [finite differences in 1D](week1)
+o [Finite Differences in 1D](week1)
 
-o [time discretization](week2)
+o [Time Discretization](week2)
 
-o [finite elements in 1D](week3)
+o [Finite Elements in 1D](week3)
 
-o [finite elements in 2D](week4)
+o [Finite Elements in 2D](week4)
 
-o [static optimization](week5)
+o [Static Optimization](week5)
 
-o [dynamic optimization](week6)
+o [Dynamic Optimization](week6)
